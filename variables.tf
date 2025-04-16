@@ -1,4 +1,4 @@
-#test 3
+#test 2
 variable "region" {
   description = "AWS region"
   default     = "us-west-1"
